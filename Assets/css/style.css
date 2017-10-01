@@ -1,0 +1,47 @@
+*	{
+		text-align: center;
+		border-color: #ffffff;
+		font-family: 'Georgia', Times, Times New Roman, serif;
+		
+}
+
+body {
+	background-color: #4aaaa5;
+}
+
+header {
+	padding: 20px;
+	margin-bottom: 20px;
+	float: left;
+	background-color: #4aaaa5;
+	width: 25%;
+}
+
+section {
+	background-color: #ffffff;
+	float: left;
+	padding: 0px;
+	margin: 50px;
+}
+
+p {
+	color: #777777;
+}
+
+footer {
+	background-color: #dddddd;
+	padding: 20px;
+	margin-top: 20px;
+}
+
+@media screen (max-width: 980px) {
+	
+}
+
+@media screen (max-width: 768px) {
+	
+}
+
+@media screen (max-width: 640px) {
+	
+}
